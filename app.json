@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "clube-quinze",
-    "slug": "clube-quinze",
+    "name": "app2",
+    "slug": "app2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -38,6 +38,6 @@
         "projectId": "445658aa-17d0-48f8-add5-e6c94d9e25a5"
       }
     },
-    "owner": "alan.torres55"
+    "owner": "lucax011"
   }
 }
